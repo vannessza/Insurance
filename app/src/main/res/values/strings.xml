@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">APK New Insurance</string>
+    <string-array name="gender">
+        <item>Pria</item>
+        <item>Wanita</item>
+    </string-array>
+    <string-array name="masapremi">
+        <item>1 Tahun</item>
+        <item>2 Tahun</item>
+        <item>3 Tahun</item>
+        <item>4 Tahun</item>
+        <item>5 Tahun</item>
+        <item>6 Tahun</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
